@@ -1,0 +1,258 @@
+word,meaning,correct,note,category
+consultative,咨询的,/kənˈsʌltətɪv/,,形容词
+severity,严重性,/sɪˈverəti/,用于表达事故的严重程度,名词
+concurrent,并发的，同时发生的,/kənˈkɜːrənt/,,形容词
+mechanism,机制，原理,/ˈmekənɪzəm/,,名词
+intrusive,侵入式的,/ɪnˈtruːsɪv/,,形容词
+permutation,排序,/ˌpɜːrmjuˈteɪʃn/,,名词
+confidentiality,保密性,/ˌkɑːnfɪˌdenʃiˈæləti/,,名词
+replica,复制物,/ˈreplikə/,,名词
+comma,逗号,/ˈkɑːmə/,""",""",符号
+anomaly,异常，反常事物,/əˈnɑːməli/,,名词
+semicolon,分号,/ˈsemikoʊlən/,""";""",符号
+standalone,单独的,/ˈstændəˌləun/,,形容词
+GUI,图形用户界面,/null/,Graphical User Interface,缩写
+bandwidth,带宽，多余时间（人力）,/ˈbændwɪdθ/,后者意思是咨询有没有足够的资源或时间来完成某件事情,名词
+elastic,灵活有弹性的,/ɪˈlæstɪk/,AWS Elastic Compute Cloud (EC2) 有「弹性、伸缩性」的特点,形容词
+BIOS,基本输入输出系统,/null/,Basic Input Output System,缩写
+threshold,阈值,/ˈθreʃhoʊld/,,名词
+ratify,批准，认可,/ˈrætɪfaɪ/,,动词
+architecture,架构,/ˈɑːrkɪtektʃər/,,名词
+dollar sign,美元符号,/null/,"""$""",符号
+provision,规定；预备；准备,/prəˈvɪʒn/,例如对UFS设备进行provision，分区、划分LUN等操作,名词
+thrilled,非常兴奋的,/θrɪld/,,形容词
+efficiency,效率,/ɪˈfɪʃnsi/,,名词
+descent,下降，降序,/dɪˈsent/,,名词
+impression,曝光,/ɪmˈpreʃn/,,名词
+permanent,永久的,/ˈpɜːrmənənt/,,形容词
+retrospective,追溯的、回顾的、复盘的,/ˌretrəˈspektɪv/,,形容词
+constraint,约束,/kənˈstreɪnt/,,名词
+semantic,语义的,/sɪˈmæntɪk/,,形容词
+scalability,可扩展性,/ˌskeɪləˈbɪləti/,,名词
+seamless,无缝的,/ˈsiːmləs/,,形容词
+strangler pattern,绞杀者模式,/null/,通过将特定的功能片断逐渐取代为新的应用程序和服务，逐步迁移旧系统。 随着旧系统的功能被替换，新系统最终将取代旧系统的所有功能，抑制旧系统并使其停用。,词组
+sophisticated,复杂的、富有经验的,/səˈfɪstɪkeɪtɪd/,,形容词
+degradation,降级,/ˌdeɡrəˈdeɪʃn/,,名词
+redundancy,冗余，多余,/rɪˈdʌndənsi/,,名词
+less than,小于号,/null/,"""<""",符号
+capacity,能力、容量,/kəˈpæsəti/,,名词
+compliance,合规,/kəmˈplaɪəns/,,名词
+stroke,笔画,/stroʊk/,,名词
+integration,集成，整合,/ˌɪntɪˈɡreɪʃn/,,名词
+square brackets,方括号,/null/,"""[ ]""",符号
+failback,自动恢复,/null/,在簇（Data Cluster）网络系统中，由于某台服务器要进行维修，需要网络资源和服务暂时重定向到备用系统。在此之后将网络资源和服务器恢复为由原始主机提供的过程，称为自动恢复,名词
+throughput,吞吐量,/ˈθruːpʊt/,,名词
+indecisive,犹豫不决的,/ˌindi'saisiv/,,形容词
+accordion,可折叠的，褶叠的,/əˈkɔːrdiən/,设计中可以通过点击按钮将内容折叠或展开,形容词
+monetize,货币化,/ˈmɑːnɪtaɪz/,将产品货币化，通过产品赚钱,动词
+inherit,继承,/ɪnˈherɪt/,,动词
+critical,关键的，重要的，批评的,/ˈkrɪtɪkl/,,形容词
+incentive,激励的，刺激的,/ɪnˈsentɪv/,,形容词
+delivery,交付,/dɪˈlɪvəri/,,名词
+strength,优势,/streŋkθ/,,名词
+false positive,假阳性,/null/,当你真的没有的时候，别人却说你有。,词组
+right arrow,向右箭头,/null/,"""→""",符号
+explicit,明确清楚的,/ɪkˈsplɪsɪt/,,形容词
+undertake,承担,/ˌʌndərˈteɪk/,,动词
+takeaway,收获、学到什么,/ˈteɪkəweɪ/,,名词
+capture,捕捉、抓取,/ˈkæptʃər/,,动词
+sustainable,可持续的,/səˈsteɪnəbl/,,形容词
+intervention,介入、干涉,/ˌɪntərˈvenʃn/,,名词
+cluster,集群,/ˈklʌstər/,,名词
+tenancy,租期,/ˈtenənsi/,,名词
+encryption,加密,/ɪnˈkrɪpʃn/,,名词
+optimize,优化,/ˈɑːptɪmaɪz/,,动词
+significant,重大的，有意义的,/sɪɡˈnɪfɪkənt/,,形容词
+fault tolerance,,/null/,,词组
+permission,权限,/pəˈmɪʃn/,,名词
+subsequent,随后的、之后的,/ˈsʌbsɪkwənt/,,形容词
+colon,冒号,/ˈkoʊlən/,""":""",符号
+exclamation mark,惊叹号，感叹号,/ˌekskləˈmeɪʃn/,"""!""",符号
+deprecated,弃用的,/ˈdɛprəˌketɪd/,,形容词
+aspect,方面，方向,/ˈæspekt/,,名词
+mutable,可变的,/ˈmjuːtəbl/,,形容词
+automation,自动化,/ˌɔːtəˈmeɪʃn/,,名词
+magnetic storage,磁储存,/null/,,词组
+decouple,解耦，使分离,/diːˈkʌpl/,,动词
+evaluation,评价，计算,/ɪˌvæljuˈeɪʃn/,,名词
+priority,优先次序,/praɪˈɔːrəti/,,名词
+scheduler,时间调度程序,/ˈskedʒuːlər/,,名词
+backslash,反斜线,/ˈbækslæʃ/,"""\\""",符号
+declarative,声明式,/dɪˌkler.ə.t̬ɪv/,,形容词
+consumption,消耗,/kənˈsʌmpʃn/,,名词
+underscore,下划线,/ˌʌndərˈskɔːr/,"""_""",符号
+complexity,复杂性,/kəmˈpleksəti/,,名词
+double quotation mark,双引号,/null/,"'""'",符号
+minus,减号,/ˈmaɪnəs/,"""-""",符号
+respective,分别的，各自的,/rɪˈspektɪv/,,形容词
+implicit,含蓄的、含糊不清的,/ɪmˈplɪs.ɪt/,浅显好过隐晦(Explicit is better than implicit),形容词
+failover,失效转移,/feilˈəuvər/,即当 A 无法为客户服务时，系统能够自动地切换，使 B 能够及时地顶上继续为客户提供服务，且客户感觉不到这个为他提供服务的对象已经更换,名词
+equal,等于号,/ˈiːkwəl/,"""=""",符号
+catastrophic failover,灾难性故障转移,/null/,,词组
+mitigate,减轻，缓和,/ˈmɪtɪɡeɪt/,,动词
+authentication,身份验证,/ɔːˌθentɪˈkeɪʃn/,,名词
+analyze,分析,/ˈænəlaɪz/,,动词
+slash,斜线号,/slæʃ/,"""／""",符号
+recursion,递归,/rɪˈkɜːrʒn/,,名词
+UAT,用户验收测试,/null/,User Acceptance Testing,缩写
+parenthesis,圆括号,/pəˈrenθəsɪs/,"""( )""",符号
+imperative,命令式,/ɪmˈper.ə.t̬ɪv/,,形容词
+marry,结合、联合,/ˈmæri/,,动词
+hash,井号,/hæʃ/,"""#""",符号
+notation,注释、标注,/noʊˈteɪʃn/,,名词
+discretely,离散地，分离地,/dɪˈskriːtli/,,副词
+introspect,自解析，自省,/ˌɪntrə'spɛkt/,常用于身份认证过程中，对 token 进行自解析。,动词
+analogy,类比，比喻,/əˈnælədʒi/,,名词
+simultaneously,同时地,/ˌsaɪmlˈteɪniəsli/,,副词
+homebrew,自制程序,/ˌhoʊmˈbruː/,开源的软件包管理系统，https://brew.sh/,名词
+disclaimer,免责声明,/dɪˈskleɪ.mɚ/,,名词
+integrity,完整性,/ɪnˈteɡrəti/,,名词
+remediation,补救，矫正,/rɪˌmiːdiˈeɪʃn/,,名词
+hypothesis,假设,/haɪˈpɑːθəsɪs/,,名词
+allocate,分配,/ˈæləkeɪt/,,动词
+protocol,协议,/ˈproʊtəkɑːl/,,名词
+restriction,限制，约束,/ri'strikʃən/,,名词
+downwards arrow,向下箭头,/null/,"""↓""",符号
+hypervisor,虚拟机器监视器（VMM）,/ˌhaipəˈvaizə/,,名词
+reconcile,调停，调解，顺从,/ˈrekənsaɪl/,,动词
+tilde,波浪号,/ˈtɪldə/,"""～""",符号
+trajectory,轨道，轨迹,/trəˈdʒektəri/,,名词
+bogus,假的，伪造,/ˈboʊɡəs/,,名词
+agile,敏捷、灵活的,/ˈædʒl/,,形容词
+utilization,利用，使用,/ˌjuːtələˈzeɪʃn/,,名词
+traceability,可追溯性,/ˌtresəˈbɪləti/,,名词
+concrete,具体的、有形的,/ˈkɑːnkriːt/,,形容词
+agility,敏捷，灵活,/əˈdʒɪləti/,,名词
+equivalent,对等的人（或事物）；,/ɪˈkwɪvələnt/,,名词
+CLI,命令行界面,/null/,Command Line Interface,缩写
+resilient,有弹力的、能恢复的,/rɪˈzɪliənt/,,形容词
+incident,事故,/ˈɪnsɪdənt/,,名词
+implement,实现，执行,/ˈɪmplɪment/,一个类对一个接口的实现,动词
+revisit,再访，再议,/ˌriːˈvɪzɪt/,,动词
+retain,保持,/rɪˈteɪn/,,动词
+expenditure,支出，经费,/ɪkˈspendɪtʃər/,,名词
+rectify,改正，修正，纠正,/ˈrektɪfaɪ/,,动词
+cost-efficient,有成本效益的，合算的,/ˈkɔstiˈfiʃənt/,,形容词
+ascent,上升，升序,/əˈsent/,,名词
+dedicated,专属的,/ˈdedɪkeɪtɪd/,,形容词
+DOM,文档对象模型,/null/,Document Object Model,缩写
+occasion,场合、机会,/əˈkeɪʒn/,,名词
+vulnerability,易损性，弱点,/ˌvʌlnərəˈbɪləti/,,名词
+rapid,迅速的、飞快的,/ˈræpɪd/,,形容词
+asynchronous,异步的,/eɪˈsɪŋkrənəs/,,形容词
+immutable,不变的,/ɪˈmjuːtəbl/,,形容词
+aggregation,聚合,/ˌæɡrɪˈɡeɪʃn/,,名词
+customized,定制的，个性化的,/ˈkʌstəmaɪzd/,,形容词
+roll off,TBD,/null/,,词组
+oversight,疏忽、失察,/ˈoʊvərsaɪt/,,名词
+faceted search,分面搜索,/null/,,词组
+bottleneck,瓶颈,/ˈbɑːtlnek/,,名词
+agnostic,不可知论的,/æɡˈnɑːstɪk/,常用于 language agnostic，即和语言无关。,形容词
+overhead,额外开销，虚耗,/ˌovɚˈhɛd/,"In computer science, overhead is any combination of excess or indirect computation time, memory, bandwidth, or other resources that are required to perform a specific task.",名词
+underlying,在下面的，潜在的，深层的,/ˌʌndərˈlaɪɪŋ/,,形容词
+reliability,可靠性,/rɪˌlaɪəˈbɪləti/,,名词
+intuitive,直觉的,/ɪnˈtuːɪtɪv/,,形容词
+upwards arrow,向上箭头,/null/,"""↑""",符号
+database,数据库,/ˈdɑːtəbeɪs/,,名词
+scenario,场景,/sɪˈnɛrɪˌo/,,名词
+durability,持久性，耐用性,/ˌdʊrəˈbɪləti/,,名词
+scope,范围，作用域,/skoʊp/,,名词
+alphabetically,按字母顺序排列地,/ˌælfəˈbetɪkli/,,副词
+under the hood,引擎罩下，比喻内幕、原理,/null/,Beneath the surface; in its internal workings,词组
+interaction,交互、相互影响、干涉,/ˌɪntərˈækʃn/,,名词
+left arrow,向左箭头,/null/,"""←""",符号
+diversified,多样化的,/daɪˈvɜrsɪfaɪd/,,形容词
+distinction,区别、差别,/dɪˈstɪŋkʃn/,,名词
+module,模块,/ˈmɑːdʒuːl/,,名词
+expression,表达式,/ɪkˈspreʃn/,,名词
+robust,强健的，顽健的,/roʊˈbʌst/,,形容词
+initiative,方案、倡议,/ɪˈnɪʃətɪv/,,名词
+streamline,使现代化、流线，使合理化,/ˈstriːmlaɪn/,,动词
+cost-effective,有成本效益的，合算的,/ˌkɔːst ɪˈfektɪv/,,形容词
+aggregate,聚合，整合,/ˈæɡrɪɡət/,将多条信息聚合到一起，比如聚合类的新闻客户端,动词
+characteristic,特征，特性,/ˌkærəktəˈrɪstɪk/,,名词
+curly brackets,花括号,/null/,"""{ }""",符号
+comprehensive,综合的，广泛的,/ˌkɑːmprɪˈhensɪv/,,形容词
+UUID / GUID,全局唯一标识符,/null/,Globally Unique Identifier,缩写
+amortization,摊销,/ˌæmərtəˈzeɪʃn/,,名词
+dash,破折号,/dæʃ/,"""—""",符号
+percent,百分号,/pərˈsent/,"""%""",符号
+debug,调试,/ˈdiːbʌɡ/,,动词
+post-mortem,尸体解剖，事后反思（或剖析）,/ˌpoʊst ˈmɔːrtəm/,,名词
+taxonomy,分类,/tækˈsɑːnəmi/,,名词
+schema,提要，纲要，架构,/ˈskiːmə/,多用于 database schema,名词
+at,邮件符号,/æt/,"""@""",符号
+single quotation mark,单引号,/null/,"""'""",符号
+impact,绩效，影响,/ˈɪmpækt/,,名词
+latency,延迟,/ˈleɪtənsi/,,名词
+concatenate,连接,/kɑnˈkætəˌnet/,,动词
+crucial,重要的，决定性的,/ˈkruːʃl/,,形容词
+HTML,超文本标记语言,/null/,HyperText Markup Language,缩写
+metrics,数据指标,/ˈmetrɪks/,,名词
+infrastructure,基础设施,/ˈɪnfrəstrʌktʃər/,,名词
+compromise,泄漏，破解,/ˈkɑːmprəmaɪz/,,名词
+ephemeral,短暂性的,/ɪˈfemərəl/,,形容词
+impersonate,扮演，模仿,/ɪmˈpɜːrsəneɪt/,,动词
+encapsulate,压缩、封装,/ɪnˈkæpsjuleɪt/,,动词
+tolerance,容忍,/ˈtɑːlərəns/,,名词
+subsidiary,子公司,/ˈsəbsɪdieri/,,名词
+ellipsis,省略号,/ɪˈlɪpsɪs/,"""...""",符号
+permissive,宽容的,/pərˈmɪsɪv/,,形容词
+optimization,优化,/ˌɑptəmɪˈzeʃən/,,名词
+ampersand,和,/ˈæmpərsænd/,"""&""",符号
+SIT,系统整合测试,/null/,System Integration Testing,缩写
+intermittent,间歇的,/ˌɪntərˈmɪtənt/,,形容词
+depreciation,折旧，贬值,/dɪˌpriːʃiˈeɪʃn/,,名词
+traversal,遍历,/trəˈvərsəl/,,名词
+glossary,术语,/ˈɡlɑːsəri/,,名词
+furthermore,此外，而且,/ˌfɜːrðərˈmɔːr/,,副词
+contrast,对比,/ˈkɑːntræst/,,名词
+symmetric,对称的,/sɪ'mɛtrɪk/,,形容词
+substantial,实质的,/səbˈstænʃl/,,形容词
+dead letter queue,死信队列,/null/,在队列服务中，那些无法发送的信息将被送至死信队列,词组
+subtle,微小（但重要）的，微妙的,/ˈsʌt̬.əl/,,形容词
+authorization,授权，认可,/ˌɔːθərəˈzeɪʃn/,,名词
+granular,颗粒的,/ˈɡrænjələr/,,形容词
+escalate,升级,/ˈeskəleɪt/,,动词
+period,句号,/ˈpɪriəd/,""".""",符号
+elasticity,弹性，灵活性,/ˌiːlæˈstɪsəti/,,名词
+question mark,问号,/ˈkwestʃən/,"""?""",符号
+section,分节号,/ˈsekʃn/,"""§""",符号
+angle brackets,尖括号,/null/,"""< >""",符号
+tweak,扭，调整,/twiːk/,,名词
+greater than,大于号,/null/,""">""",符号
+leverage,借用、利用,/ˈlevərɪdʒ/,,动词
+manually,手动地,/ˈmænjuəli/,,副词
+caret,折音号,/ˈkærət/,"""^""",符号
+evolution,进化、演变,/ˌevəˈluːʃn/,,名词
+embrace,拥抱、接受,/ɪmˈbreɪs/,拥抱某种技术,动词
+on-premise,预置的,/ɑːnˈpremɪs/,,形容词
+hyphen,连字符,/ˈhaɪfn/,"""-""",符号
+data sovereignty,数据主权,/null/,数据主权指的是在该国或地区采集的数据应当归属于当地政府且需服从当地法律法规,词组
+vice versa,反之亦然,/ˌvaisi'və:sə/,,词组
+periodically,定期地，周期性地,/ˌpɪriˈɑːdɪkli/,,副词
+privilege,特权，优待,/ˈprɪvəlɪdʒ/,,名词
+inception,起始，创立,/ɪnˈsepʃn/,,名词
+synchronous,同步的,/ˈsɪŋkrənəs/,,形容词
+differentiate,区分,/ˌdɪfəˈrenʃieɪt/,,动词
+workaround,变通方案,"/ˈwə:kə,raund/",特指方案具有迂回性质,名词
+tentative,假设，试验,/ˈtentətɪv/,,名词
+redacted,经过编辑的,/rəˈdakt/,,形容词
+mature,成熟的,/məˈtʃʊr/,,形容词
+design patterns,设计模式,/null/,解决代码问题的套路方法，例如《设计模式：可复用面向对象软件的基础》（Design Patterns: Elements of Reusable Object-Oriented Software）,词组
+hierarchical,分层的,/ˌhaɪəˈrɑːrkɪkl/,,形容词
+arbitrary,任意的,/ˈɑːrbɪtreri/,,形容词
+malware,恶意软件,/ˈmælwer/,,名词
+polyfill,填充物,/ˈpəʊliːfɪl/,常指代 JavaScript 的特性，[MDN 说明](https://developer.mozilla.org/zh-CN/docs/Glossary/Polyfill),名词
+populate,输入数据,/ˈpɑːpjuleɪt/,,动词
+miscellaneous,混杂、各式各样的,/ˌmɪsəˈleɪniəs/,,形容词
+federation,联合授权,/ˌfedəˈreɪʃn/,,名词
+roll out,TBD,/null/,,词组
+mediocre,普通的，平凡的,/ˌmiːdiˈoʊkər/,,形容词
+resilience,回弹性,/rɪˈzɪliəns/,,名词
+heterogeneous,由很多种类组成的，混杂的，各种各样的,/ˌhetərəˈdʒiːniəs/,,形容词
+plus,加号,/plʌs/,"""+""",符号
+asterisk,星号,/ˈæstərɪsk/,"""*""",符号
+model,模型,/ˈmɑːdl/,,名词
+constant,常数，恒量,/ˈkɑːnstənt/,,名词
+caveats,注意事项,/ˈkæviæt/,,名词
