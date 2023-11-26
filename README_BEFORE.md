@@ -1,14 +1,14 @@
 最近在App Store发现了一款在电脑背单词的软件，可以充分利用上班的碎片时间记单词
 
-![Snipaste_2023-11-26_17-34-03.jpg](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/17009925291124hGKfF64.jpg)
+![Snipaste_2023-11-26_17-34-03.jpg](https://upload-images.jianshu.io/upload_images/3203841-3a234dc9c7ac0781.jpg)
 
 同时我在Github发现了一个主题为 **程序员工作中常见的英语词汇** 的仓库
 
-![image.png](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/1700992529243xt2bBQ78.png)
+![image.png](https://upload-images.jianshu.io/upload_images/3203841-9a667e6a687e7d3b.png)
 
 我打算把这些单词用碎片化时间记一下，于是写了个脚本，实现了一键导入，最终效果如图
 
-![image.png](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/1700992529389bX2cTrhW.png)
+![image.png](https://upload-images.jianshu.io/upload_images/3203841-7b7e0378b693e15c.png)
 
 
 ## 获取原项目数据
@@ -82,21 +82,21 @@ if __name__ == "__main__":
 
 运行 `python create_csv.py`
 
-![image.png](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/1700992529523adMtppAZ.png)
+![image.png](https://upload-images.jianshu.io/upload_images/3203841-eea445719a90b5c1.png)
 
-![image.png](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/1700992529734NNJk44f5.png)
+![image.png](https://upload-images.jianshu.io/upload_images/3203841-ae2ff9a564d498b3.png)
 
 Excel生成后，记得用微软的Excel打开，并保存一下，才能被**摸鱼单词**识别
 
 ## 将Excel导入摸鱼单词
 
-![2023-11-26 17.28.32.gif](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/17009925298695wBCtfYC.gif)
+![2023-11-26 17.28.32.gif](https://upload-images.jianshu.io/upload_images/3203841-8695fe496d2c9c9b.gif)
 
 
 ## 导入成功
 
 
-![image.png](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/170099253056335B1mcP0.png)
+![image.png](https://upload-images.jianshu.io/upload_images/3203841-0337bfabb39f89b6.png)
 
 
 ## 小结
