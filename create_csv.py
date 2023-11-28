@@ -41,7 +41,7 @@ def main():
     })
 
     # 将DataFrame转换为Excel文件
-    df.to_excel('most-frequent-technology-english-words.xlsx', index=False, sheet_name='单词本')
+    df.to_excel('most-frequent-technology-english-words.xlsx', engine="xlsxwriter", index=False, sheet_name='单词本')
 
 if __name__ == "__main__":
     main()

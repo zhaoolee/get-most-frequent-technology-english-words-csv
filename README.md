@@ -24,7 +24,7 @@ touch create_csv.py
 ## 安装依赖包
 
 ```
-pipenv install  pandas openpyxl
+pipenv install  pandas openpyxl xlsxwriter
 ```
 
 ##   在`create_csv.py`中写入以下代码
@@ -73,7 +73,7 @@ def main():
     })
 
     # 将DataFrame转换为Excel文件
-    df.to_excel('most-frequent-technology-english-words.xlsx', index=False, sheet_name='单词本')
+    df.to_excel('most-frequent-technology-english-words.xlsx', engine="xlsxwriter", index=False, sheet_name='单词本')
 
 if __name__ == "__main__":
     main()
@@ -86,7 +86,9 @@ if __name__ == "__main__":
 
 ![image.png](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/1700992529734NNJk44f5.png)
 
-Excel生成后，记得用微软的Excel打开，并保存一下，才能被**摸鱼单词**识别
+~~Excel生成后，记得用微软的Excel打开，并保存一下，才能被**摸鱼单词**识别~~ （2023年11月28日更新）经过和摸鱼单词作者的交流， 将DataFrame转换为Excel文件时，启用`engine="xlsxwriter"` , 即可被摸鱼单词识别
+
+![](https://raw.githubusercontent.com/zhaoolee/get-most-frequent-technology-english-words-csv/master/README/image-20231128182631536.png)
 
 ## 将Excel导入摸鱼单词
 
